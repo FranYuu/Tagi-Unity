@@ -1,0 +1,2 @@
+Système,"Laisse appuyer sur le clic gauche de la souris pour faire apparaître la zone de visée.",0,C
+Système,"Entraînes-toi à viser sur ces trois cibles puis passe à la suite.",0,C

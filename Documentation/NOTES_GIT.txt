@@ -1,0 +1,19 @@
+Le dossier "projet-javafx"  est le dossier qui agit sur git.
+(plain text = ' commande bash ' )
+(obtenu via ' git clone https://gitlab.iut-clermont.uca.fr/enbriziare/projet-javafx.git ' )
+
+Ouvrir un GIT bash dans Enzo/2A_Project/Projet_Jeu_JavaFX/projet-javafx
+
+' git status ' (pour savoir ou j'en suis niveau REPO)
+' git pull '(recuperer la derniere version).
+
+Ajouter :
+1- Y foutre les dossier/fichiers a jouter (drag and drop local) PUIS
+2- ' git add nom_du_fichier_ou_du_dossier '  (Possibilité de faire sur une branche, ' git add origin master ' par exemple)
+3- ' git commit -m "Message du commit" '
+4- ' git push '
+
+Pour delete = 
+1- ' git rm -r nom_du_fichier_ou_du_dossier ' (-r si dans une branche)
+2- ' git commit -m "Message du commit" '
+3- ' git push '

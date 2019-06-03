@@ -1,0 +1,2 @@
+Unknown,"Rappelle-toi de toujours jeter un oeil aux ressources que tu possède tel que le mana et les munitions.",0,C
+Unknown,"En mission elles ne seront pas infinies.",0,C

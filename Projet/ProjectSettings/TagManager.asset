@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Waypoint
+  - Destroyable
+  - Projectile
+  - Enemy
+  - NotHitByBullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Wall
+  - Ground
+  - FixedObjects
+  - Enemy
+  - LightSources
+  - LightObstacles
+  - AmbientLight
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: LightSources
+    uniqueID: 2330800195
+    locked: 0
+  - name: LightObstacles
+    uniqueID: 1429128975
+    locked: 0
+  - name: AmbientLight
+    uniqueID: 4088129177
+    locked: 0
+  - name: Foreground
+    uniqueID: 4068932611
+    locked: 0

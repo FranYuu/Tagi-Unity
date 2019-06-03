@@ -1,0 +1,2 @@
+Unknown,"Même si une voie te semble sans issues, rappelle-toi que tu peux toujours te téléporter au travers.",1,C
+Unknown,"Clic droit de la souris pour se téléporter",0,C

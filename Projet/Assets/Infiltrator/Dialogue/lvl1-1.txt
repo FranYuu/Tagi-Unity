@@ -1,0 +1,4 @@
+Système,"Voici votre première mission agent 117.",0,C
+Système,"Vous devrez éliminer toute menace afin de neutralier le directeur de l'entrepôt, fournissant des armes à T.A.G.I.",0,C
+Système,"Pour cela, utilisez tous les gadgets à votre disposition et trouvez votre propre chemin.",0,C
+Unknown,"La production est en marche, les nouvelles armes seront bientôt distribuées à toutes nos unités.",0,C

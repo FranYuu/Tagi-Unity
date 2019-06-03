@@ -1,0 +1,2 @@
+Unknown,"Laisse appuyer sur le clic gauche de la souris pour faire apparaître la zone de visée.",0,C
+Unknown,"Neutralisez ces 3 cibles pour passer à la suite.",0,C

@@ -1,0 +1,4 @@
+Unknown,"Alors Lucy, prête pour ton dernier entraînement?",1,R
+Lucy," ... ",0,L
+Unknown,"Revoyons un peu les bases, je te dirai quoi faire en t'envoyant les informations par ton système de télé-communication.",1,R
+Système,"Avance vers la gauche et la droite avec les touches Q et D",0,C

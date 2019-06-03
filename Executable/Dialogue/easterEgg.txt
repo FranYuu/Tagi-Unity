@@ -1,0 +1,3 @@
+Enoz,"Oups, déso pas déso je suis en retard.",0,C
+Enoz,"Bienvenue dans ma caverne d'Alibaba, ici sont entreposés un grand nombre d'oeuf cachés.",0,C
+Enoz,"Et n'oubliez pas, si vous pensez trouver un bug, c'est une feature.",0,C

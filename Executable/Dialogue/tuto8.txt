@@ -1,0 +1,2 @@
+Système,"Rappelle-toi de toujours jeter un oeil aux ressources que tu possèdes telles que la mana ou les munitions.",0,C
+Système,"En mission elles ne seront pas infinies.",0,C

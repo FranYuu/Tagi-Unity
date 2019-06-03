@@ -1,0 +1,2 @@
+Unknown,"Quand l'ennemi te repère, il se précipitera vers toi pour te neutraliser.",0,C
+Unknown,"Essaie de ne pas te faire repérer la prochaine fois, ce ne sera certainement pas un exercice.",0,C

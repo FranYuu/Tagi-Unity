@@ -1,0 +1,2 @@
+Système,"Mise à niveau de l'agent numéro 04 a.k.a Lucy validée.",0,C
+Système,"L'agent sera bientôt envoyé sur sa première mission.",0,C

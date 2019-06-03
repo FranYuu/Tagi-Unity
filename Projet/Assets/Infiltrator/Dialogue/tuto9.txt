@@ -1,0 +1,3 @@
+Unknown,"Tu vois la lumière émise par la lampe-torche de l'ennemi? ",1,C
+Unknown,"Fait attention à ne pas te mettre devant ou tu te fera repérer.",1,C
+Unknown,"Essayez de trouver un chemin pour contourner le garde et le neutraliser avec votre attaque de mélée.",0,C
